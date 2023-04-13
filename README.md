@@ -1,2 +1,2 @@
-# test
+# word-counter
 none
